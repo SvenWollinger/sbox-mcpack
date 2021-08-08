@@ -1,11 +1,11 @@
 # sbox-mcpack
 Material/Model pack for S&amp;Box in the style of Minecraft
 
-# How to use
-This pack contains the textures and materials neccesary, however you still need to compile them.
-Just drop the folders needed (for example materials) into your addon and open the tools, it should compile the materials.
+Simply either download & add it to your project or fork it into your project folder.
 
 **NOT OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG**
+
+**The license only applies to the content i made, which does not include the any png files made by Mojang.**
 
 License
 ----
