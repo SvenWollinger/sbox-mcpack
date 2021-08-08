@@ -4,3 +4,4 @@ tools_thumbnail_cache.bin
 maps/editor
 *.vmat_c
 *.vtex_c
+*.vmdl_c
