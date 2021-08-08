@@ -42,9 +42,9 @@ Layer0
 	//---- Texture Animation ----
 	g_flAnimationFrame "0.000"
 	g_flAnimationTimeOffset "0.000"
-	g_flAnimationTimePerFrame "0.016"
+	g_flAnimationTimePerFrame "0.300"
 	g_nNumAnimationCells "1024"
-	g_vAnimationGrid "[2 64]"
+	g_vAnimationGrid "[1 32]"
 
 	//---- Texture Coordinates ----
 	g_nScaleTexCoordUByModelScaleAxis "0"
