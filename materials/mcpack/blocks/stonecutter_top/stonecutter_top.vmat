@@ -15,7 +15,7 @@ Layer0
 	//---- Color ----
 	g_flModelTintAmount "1.000"
 	g_vColorTint "[1.000000 1.000000 1.000000 0.000000]"
-	TextureColor "materials/mcpack/blocks/grass_path_top/grass_path_top.png"
+	TextureColor "materials/mcpack/blocks/stonecutter_top/stonecutter_top.png"
 
 	//---- Fade ----
 	g_flFadeExponent "1.000"
@@ -45,6 +45,6 @@ Layer0
 
 	SystemAttributes
 	{
-		PhysicsSurfaceProperties "dirt"
+		PhysicsSurfaceProperties "concrete"
 	}
 }

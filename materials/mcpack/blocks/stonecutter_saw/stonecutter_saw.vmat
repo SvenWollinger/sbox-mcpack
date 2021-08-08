@@ -7,6 +7,9 @@ Layer0
 	//---- PBR ----
 	F_SPECULAR 1
 
+	//---- Translucent ----
+	F_ALPHA_TEST 1
+
 	//---- Ambient Occlusion ----
 	g_flAmbientOcclusionDirectDiffuse "0.000"
 	g_flAmbientOcclusionDirectSpecular "0.000"
@@ -15,7 +18,7 @@ Layer0
 	//---- Color ----
 	g_flModelTintAmount "1.000"
 	g_vColorTint "[1.000000 1.000000 1.000000 0.000000]"
-	TextureColor "materials/mcpack/blocks/grass_path_top/grass_path_top.png"
+	TextureColor "materials/mcpack/blocks/stonecutter_saw/stonecutter_saw.png"
 
 	//---- Fade ----
 	g_flFadeExponent "1.000"
@@ -43,8 +46,13 @@ Layer0
 	g_vTexCoordScale "[1.000 1.000]"
 	g_vTexCoordScrollSpeed "[0.000 0.000]"
 
+	//---- Translucent ----
+	g_flAlphaTestReference "0.434"
+	g_flAntiAliasedEdgeStrength "1.000"
+	TextureTranslucency "materials/mcpack/blocks/stonecutter_saw/stonecutter_saw.png"
+
 	SystemAttributes
 	{
-		PhysicsSurfaceProperties "dirt"
+		PhysicsSurfaceProperties "metal"
 	}
 }

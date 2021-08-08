@@ -4,8 +4,8 @@ Layer0
 {
 	shader "complex.vfx"
 
-	//---- PBR ----
-	F_SPECULAR 1
+	//---- Translucent ----
+	F_ALPHA_TEST 1
 
 	//---- Ambient Occlusion ----
 	g_flAmbientOcclusionDirectDiffuse "0.000"
@@ -15,7 +15,7 @@ Layer0
 	//---- Color ----
 	g_flModelTintAmount "1.000"
 	g_vColorTint "[1.000000 1.000000 1.000000 0.000000]"
-	TextureColor "materials/mcpack/blocks/grass_path_top/grass_path_top.png"
+	TextureColor "materials/mcpack/blocks/glass_pane_top/glass_pane_top.png"
 
 	//---- Fade ----
 	g_flFadeExponent "1.000"
@@ -34,7 +34,7 @@ Layer0
 	TextureNormal "materials/default/default_normal.tga"
 
 	//---- Roughness ----
-	TextureRoughness "[1.000000 1.000000 1.000000 1.000000]"
+	TextureRoughness "materials/default/default_rough.tga"
 
 	//---- Texture Coordinates ----
 	g_nScaleTexCoordUByModelScaleAxis "0"
@@ -43,8 +43,8 @@ Layer0
 	g_vTexCoordScale "[1.000 1.000]"
 	g_vTexCoordScrollSpeed "[0.000 0.000]"
 
-	SystemAttributes
-	{
-		PhysicsSurfaceProperties "dirt"
-	}
+	//---- Translucent ----
+	g_flAlphaTestReference "0.500"
+	g_flAntiAliasedEdgeStrength "1.000"
+	TextureTranslucency "materials/mcpack/blocks/glass_pane_top/glass_pane_top.png"
 }
