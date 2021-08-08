@@ -37,7 +37,7 @@ Layer0
 	TextureNormal "materials/default/default_normal.tga"
 
 	//---- Roughness ----
-	TextureRoughness "materials/default/default_rough.tga"
+	TextureRoughness "[1.000000 1.000000 1.000000 1.000000]"
 
 	//---- Texture Animation ----
 	g_flAnimationFrame "0.000"
@@ -55,5 +55,5 @@ Layer0
 	//---- Translucent ----
 	g_flAlphaTestReference "0.586"
 	g_flAntiAliasedEdgeStrength "0.319"
-	TextureTranslucency "materials/mcpack/blocks/water_flow.png"
+	TextureTranslucency "materials/mcpack/blocks/water_still.png"
 }
