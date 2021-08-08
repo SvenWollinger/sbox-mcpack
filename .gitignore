@@ -1,5 +1,6 @@
 _bakeresourcecache
 tools_asset_info.bin
 tools_thumbnail_cache.bin
+maps/editor
 *.vmat_c
 *.vtex_c
