@@ -5,7 +5,7 @@ Simply either download & add it to your project or fork it into your project fol
 
 **NOT OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG**
 
-**The license only applies to the content i made, which does not include the any png files made by Mojang.**
+**The license only applies to the content i made, which does not include any png files owned by Mojang.**
 
 License
 ----
