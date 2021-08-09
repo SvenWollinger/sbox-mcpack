@@ -5,5 +5,7 @@ maps/editor
 *.vmat_c
 *.vtex_c
 *.vmdl_c
+*.vsnd_c
+*.sound_c
 *.vpk
 maps/mcpack/prefabs/blocks/villager_house1.los
