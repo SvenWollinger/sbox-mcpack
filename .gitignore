@@ -8,4 +8,4 @@ maps/editor
 *.vsnd_c
 *.sound_c
 *.vpk
-maps/mcpack/prefabs/blocks/villager_house1.los
+*.los
