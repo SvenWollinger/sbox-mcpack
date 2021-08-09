@@ -3,6 +3,8 @@ Material/Model pack for S&amp;Box in the style of Minecraft
 
 Simply either download & add it to your project or fork it into your project folder.
 
+Note that while materials and models should automaticly compile, sound files might need to be manually compiled by right clicking and forcing them.
+
 **NOT OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG**
 
 **The license only applies to the content i made, which does not include any png files owned by Mojang.**
