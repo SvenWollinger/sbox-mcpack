@@ -27,6 +27,75 @@
 					},
 				]
 			},
+			{
+				_class = "PhysicsShapeList"
+				children = 
+				[
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = ""
+						surface_prop = "default"
+						collision_prop = "default"
+						origin = [ 0.0, 16.25, -13.75 ]
+						angles = [ 0.0, 0.0, 0.0 ]
+						dimensions = [ 7.5, 40.0, 52.5 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = ""
+						surface_prop = "default"
+						collision_prop = "default"
+						origin = [ 0.0, 16.25, 22.5 ]
+						angles = [ 0.0, 0.0, 0.0 ]
+						dimensions = [ 7.5, 5.0, 20.0 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = ""
+						surface_prop = "default"
+						collision_prop = "default"
+						origin = [ 0.0, 32.5, 22.5 ]
+						angles = [ 0.0, 0.0, 0.0 ]
+						dimensions = [ 7.5, 7.5, 20.0 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = ""
+						surface_prop = "default"
+						collision_prop = "default"
+						origin = [ 0.0, 0.0, 22.5 ]
+						angles = [ 0.0, 0.0, 0.0 ]
+						dimensions = [ 7.5, 7.5, 20.0 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = ""
+						surface_prop = "default"
+						collision_prop = "default"
+						origin = [ 0.0, 23.75, 22.5 ]
+						angles = [ 0.0, 0.0, 0.0 ]
+						dimensions = [ 7.5, 10.0, 5.0 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = ""
+						surface_prop = "default"
+						collision_prop = "default"
+						origin = [ 0.0, 8.75, 22.5 ]
+						angles = [ 0.0, 0.0, 0.0 ]
+						dimensions = [ 7.5, 10.0, 5.0 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = ""
+						surface_prop = "default"
+						collision_prop = "default"
+						origin = [ 0.0, 16.25, 36.323898 ]
+						angles = [ 0.0, 0.0, 0.0 ]
+						dimensions = [ 7.5, 40.0, 7.5 ]
+					},
+				]
+			},
 		]
 		model_archetype = ""
 		primary_associated_entity = ""
